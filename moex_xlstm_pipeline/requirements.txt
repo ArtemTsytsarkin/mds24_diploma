@@ -1,0 +1,9 @@
+stable-baselines3
+sb3-contrib
+pandas
+numpy
+requests
+apimoex
+matplotlib
+pandas_ta
+git+https://github.com/NX-AI/xlstm.git
